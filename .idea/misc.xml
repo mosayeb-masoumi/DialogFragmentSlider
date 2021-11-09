@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PagerDialog/app/src/main/res/drawable/shape.xml" value="0.34974358974358977" />
+        <entry key="..\:/PagerDialog/app/src/main/res/drawable/shape2.xml" value="0.2635416666666667" />
+        <entry key="..\:/PagerDialog/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/PagerDialog/app/src/main/res/layout/dialog_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/PagerDialog/app/src/main/res/layout/fragment_slider.xml" value="0.35104166666666664" />
+        <entry key="..\:/PagerDialog/app/src/main/res/layout/pager_layout.xml" value="0.18434343434343434" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
